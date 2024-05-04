@@ -1,4 +1,4 @@
-# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+# Task Management System: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL.
 
 Key Features:
 
@@ -74,4 +74,5 @@ Running commands with npm `npm run [command]`
 | command | description                              |
 | :------ | :--------------------------------------- |
 | `dev`   | Starts a development instance of the app |
+
 # next14-task-management-platform
